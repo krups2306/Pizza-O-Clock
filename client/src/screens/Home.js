@@ -1,5 +1,5 @@
 import React from 'react'
-// import Pizza from '../components/Pizza'
+import Pizza from '../components/Pizza'
 import pizzas from '../pizzasdata'
 
 export default function Home() {
