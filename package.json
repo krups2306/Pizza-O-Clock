@@ -1,0 +1,25 @@
+{
+  "name": "pizza-o-clock",
+  "version": "1.0.0",
+  "description": "MERN Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krups2306/Pizza-O-Clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krups2306/Pizza-O-Clock/issues"
+  },
+  "homepage": "https://github.com/krups2306/Pizza-O-Clock#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "expresss": "^0.0.0",
+    "nodemon": "^2.0.16"
+  }
+}
